@@ -15,7 +15,7 @@
 114C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\csso\lib\replace\atrule133236329150968009 1
 127C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\function.prototype.name\CHANGELOG.md133268406886302125 0
 127C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\moment\src\lib\utils\has-own-prop.js133270048930560944 0
-82C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist133270918277607826 1
+82C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist133271355644130000 1
 117C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\yaml\browser\dist\index.js133236329065494594 0
 118C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@parcel\fs\src\OverlayFS.js133236329079490803 0
 120C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\entities\lib\maps\legacy.json133236329082378951 0
@@ -77,7 +77,7 @@
 126C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\es-abstract\2016\GetGlobalObject.js133268407018216353 0
 114C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\moment\src\locale\sk.js133270048986293961 0
 103C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\svgo\plugins133236329173260157 1
-97C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\src\categorias.html133270172534430514 0
+97C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\src\categorias.html133271351867118789 0
 119C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@parcel\resolver-default\src133236329040815943 1
 122C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\caniuse-lite\data\regions\TN.js133236329307668553 0
 105C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\pify\readme.md133268406738807496 0
@@ -94,7 +94,7 @@
 125C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\svgo\plugins\convertShapeToPath.js133236329128847438 0
 104C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@parcel\types133236329061217552 1
 114C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\moment\src\locale\he.js133270048930640885 0
-94C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\src\enlaces.html133270172668168074 0
+94C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\src\enlaces.html133271354221692984 0
 134C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@parcel\core\src\TargetDescriptor.schema.js133236329203883678 0
 108C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\nth-check\LICENSE133236329031096549 0
 109C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\tslib\package.json133236329066472811 0
@@ -106,7 +106,7 @@
 113C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\which-typed-array\test133268406762546674 1
 95C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\src\donBosco.html133270171661352154 0
 123C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\es-abstract\2022\YearFromTime.js133268407184139406 0
-102C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\jardinesCuenca.html133270918277407804 0
+102C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\jardinesCuenca.html133271355643910001 0
 102C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\.bin\parcel133236329318334101 0
 134C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\caniuse-lite\data\features\css-gradients.js133236329207612342 0
 111C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\for-each\.travis.yml133268406740580047 0
@@ -128,7 +128,7 @@
 124C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\es-abstract\2022\IteratorValue.js133268407054516173 0
 136C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@parcel\bundler-default\src\DefaultBundler.js133236329053195270 0
 117C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\tslib\modules\package.json133236329063099232 0
-92C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\src\styles.css133270069171905674 0
+92C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\src\styles.css133271353008949441 0
 146C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@jridgewell\trace-mapping\dist\types\trace-mapping.d.ts133236329091647840 0
 107C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\escalade\license133236329031147479 0
 102C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\rimraf\dist133268406745745853 1
@@ -142,7 +142,7 @@
 134C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\npm-run-all\node_modules\color-name\LICENSE133268406743657838 0
 103C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\resolve-from133236329042401453 1
 114C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@parcel\fs\src\index.js133236329064769317 0
-92C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\src\index.html133270069542345452 0
+92C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\src\index.html133270941237714690 0
 111C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\has-symbols\shams.js133268406830481465 0
 122C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\es-abstract\2020\HasProperty.js133268407024877105 0
 114C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\moment\src\locale\my.js133270048978005473 0
@@ -187,7 +187,7 @@
 121C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@swc\helpers\lib\_construct.js133236329148256009 0
 133C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\css-select\lib\pseudo-selectors\filters.js133236329061087387 0
 120C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\terser\lib\compress\common.js133236329131847344 0
-99C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\src\presentacion.html133270172840362147 0
+99C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\src\presentacion.html133271352022556896 0
 114C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\is-typed-array\index.js133268406749620957 0
 120C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\is-negative-zero\CHANGELOG.md133268406841384603 0
 120C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\svgo\plugins\removeDoctype.js133236329159884524 0
@@ -443,7 +443,7 @@
 119C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\unbox-primitive\package.json133268406817340540 0
 110C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\braces\package.json133236329031186095 0
 128C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\rimraf\dist\cjs\src\path-arg.d.ts.map133268406964948728 0
-118C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\Puente desde la Hoya-2.fc698264.jpg133270918276743679 0
+118C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\Puente desde la Hoya-2.fc698264.jpg133271355640720248 0
 125C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\utility-types\dist\mapped-types.js133236329053955097 0
 97C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\braces133236329057579648 1
 131C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@parcel\codeframe\test\codeframe.test.js133236329136134444 0
@@ -1121,7 +1121,7 @@
 112C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\function-bind\LICENSE133268406743337841 0
 117C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\moment\src\locale\zh-hk.js133270048998758076 0
 113C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\is-bigint\CHANGELOG.md133268406829694125 0
-95C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\mirador.html133270918277407804 0
+95C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\mirador.html133271355643910001 0
 112C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\string.prototype.trim133268406877404672 1
 130C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\es-abstract\2022\IsBigIntElementType.js133268407032948254 0
 119C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\msgpackr-extract\binding.gyp133236329040595944 0
@@ -1291,7 +1291,7 @@
 110C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\moment\locale\sq.js133270048986753705 0
 124C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\type-fest\source\stringified.d.ts133236329149127148 0
 119C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\es-to-primitive\CHANGELOG.md133268406873872043 0
-169C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\326efbae-05b5-4a1a-ab73-88c46cde80c9_16-9-discover-aspect-ratio_default_0.4a66b08b.jpg133270918276743679 0
+169C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\326efbae-05b5-4a1a-ab73-88c46cde80c9_16-9-discover-aspect-ratio_default_0.4a66b08b.jpg133271355640710248 0
 109C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\parse-json\license133236329031186095 0
 136C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@parcel\watcher\src\windows\WindowsBackend.cc133236329091737812 0
 114C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\yaml\types\timestamp.js133236329154957816 0
@@ -1311,7 +1311,7 @@
 114C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\es-abstract\2015\max.js133268407075932279 0
 113C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\yaml\dist\parse-cst.js133236329130032234 0
 114C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\has-proto\test\index.js133268406743517822 0
-107C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\casa-ortega.a1f214ab.jpg133270918276743679 0
+107C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\casa-ortega.a1f214ab.jpg133271355640700221 0
 115C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\utility-types\SUPPORT.md133236329089450695 0
 123C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\msgpackr\dist\unpack-no-eval.cjs133236329065754752 0
 129C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\term-size\vendor\windows\term-size.exe133236329061227369 0
@@ -1348,7 +1348,7 @@
 113C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\yaml\browser\schema.js133236329148537164 0
 119C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\es-abstract\2021\ToObject.js133268407157831182 0
 109C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\yaml\browser\types133236329154223771 1
-109C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\puerta-grande.0b424a79.jpg133270918276743679 0
+109C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\puerta-grande.0b424a79.jpg133271355640700221 0
 153C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages133236329064529328 1
 131C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\yaml\browser\dist\PlainValue-b8036b75.js133236329132872639 0
 113C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\msgpackr\dist\index.js133236329080134677 0
@@ -2101,7 +2101,7 @@
 124C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\string.prototype.trimend\index.js133268406824264088 0
 128C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\caniuse-lite\data\features\picture.js133236329298945876 0
 132C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\supports-preserve-symlinks-flag\.eslintrc133268406700431620 0
-95C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\enlaces.html133270918277397787 0
+95C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\enlaces.html133271355643900071 0
 121C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\es-abstract\2020\InLeapYear.js133268407029142054 0
 130C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\supports-preserve-symlinks-flag\.github133268406845174673 1
 110C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\has-bigints\LICENSE133268406731591340 0
@@ -2550,7 +2550,7 @@
 122C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\rimraf\dist\mjs\path-arg.js.map133268406968815682 0
 115C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\moment\dist\locale\th.js133270048988759784 0
 118C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\rimraf\dist\mjs\platform.js133268406888868978 0
-116C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\casa-museo-don-bosco.c615710a.jpg133270918276743679 0
+116C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\casa-museo-don-bosco.c615710a.jpg133271355640710248 0
 133C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\lightningcss\node\browserslistToTargets.js133236329067848395 0
 133C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@parcel\transformer-react-refresh-wrap\lib133236329054275080 1
 123C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\es-abstract\2018\DateFromTime.js133268407009333847 0
@@ -2707,6 +2707,7 @@
 114C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\balanced-match\index.js133268406700501632 0
 119C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\es-abstract\2015\IsRegExp.js133268407047432127 0
 110C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\resolve\bin\resolve133268406769897264 0
+105C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\index.4b7a854c.css.map133271355644110000 0
 116C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\resolve-from\package.json133236329031186095 0
 122C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\caniuse-lite\data\regions\PK.js133236329299050441 0
 113C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\resolve-from\readme.md133236329044626395 0
@@ -2736,7 +2737,6 @@
 106C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\resolve\sync.js133268406980691017 0
 121C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\commander\package-support.json133236329045186620 0
 103C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\resolve\test133268406975571374 1
-101C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\index.f1ec51ee.css133270918277397787 0
 130C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\resolve\test\resolver\symlinked\package133268406984029765 1
 111C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\resolve\test\core.js133268406905914224 0
 148C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@parcel\watcher\prebuilds\darwin-x64\node.napi.glibc.node133236329159754539 0
@@ -3423,7 +3423,7 @@
 133C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@swc\helpers\src\_class_name_tdz_error.mjs133236329191768330 0
 121C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\normalize-package-data\AUTHORS133268406721070374 0
 117C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\normalize-package-data\lib133268406855042437 1
-104C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\index.6542fda7.js.map133270918277597843 0
+104C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\index.6542fda7.js.map133271355644110000 0
 129C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\es-abstract\2018\ArraySpeciesCreate.js133268406980701305 0
 121C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\normalize-package-data\LICENSE133268406728925320 0
 115C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\entities\lib\encode.d.ts133236329135694434 0
@@ -3923,7 +3923,7 @@
 115C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\moment\dist\locale\eo.js133270048925501860 0
 110C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\moment\locale\is.js133270048932808375 0
 126C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\es-abstract\2022\BigInt\lessThan.js133268407072397027 0
-112C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\ronda_panoramica.18d04f13.jpg133270918276743679 0
+112C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\ronda_panoramica.18d04f13.jpg133271355640700221 0
 110C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\moment\locale\it.js133270048933250020 0
 119C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\is-typed-array\.editorconfig133268406699669394 0
 129C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\es-abstract\2020\AsyncIteratorClose.js133268406985315666 0
@@ -3991,7 +3991,7 @@
 121C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@parcel\optimizer-htmlnano\src133236329057339789 1
 110C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\moment\locale\sv.js133270048987760552 0
 110C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\moment\locale\ta.js133270048988160786 0
-99C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\banosArabes.html133270918277407804 0
+99C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\banosArabes.html133271355643910001 0
 120C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\css-tree\lib\walker\create.js133236329138492077 0
 121C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\lmdb\dependencies\lmdb-data-v1133236329032636958 1
 121C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@parcel\utils\src\TapStream.js133236329175731075 0
@@ -4025,7 +4025,7 @@
 140C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@parcel\core\test\fixtures\invalid-source-missing133236329208058838 1
 118C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\moment\dist\locale\ar-ly.js133270048913690343 0
 118C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\moment\dist\locale\ar-sa.js133270048913917606 0
-96C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\clemente.html133270918277407804 0
+96C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\clemente.html133271355643910001 0
 115C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\moment\dist\locale\ar.js133270048914397730 0
 115C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\moment\dist\locale\az.js133270048914557570 0
 127C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\es-abstract\2021\FlattenIntoArray.js133268407017273904 0
@@ -4530,6 +4530,7 @@
 137C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@parcel\transformer-js\lib\esmodule-helpers.js133236329037129758 0
 119C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\es-abstract\2021\TimeClip.js133268407150011140 0
 109C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\isexe\package.json133268406699649556 0
+101C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\index.4b7a854c.css133271355643910001 0
 106C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\isexe\README.md133268406731621355 0
 124C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\escape-string-regexp\package.json133236329031076498 0
 115C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\is-weakref\.eslintignore133268406699679292 0
@@ -4731,7 +4732,7 @@
 109C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\globalthis\shim.js133268406855082484 0
 112C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\internal-slot\.github133268406854310444 1
 111C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\internal-slot\.nycrc133268406742660877 0
-93C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\index.html133270918277397787 0
+93C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\index.html133271355643900071 0
 117C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\internal-slot\CHANGELOG.md133268406843766714 0
 112C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\internal-slot\LICENSE133268406749670742 0
 107C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\.bin\detect-libc133236329318304149 0
@@ -5169,7 +5170,7 @@
 137C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@parcel\core\lib\requests\ValidationRequest.js133236329207602350 0
 154C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@parcel\workers\test\integration\workerfarm\shared-reference.js133236329144845044 0
 129C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\foreground-child\dist\cjs\package.json133268406834729907 0
-100C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\presentacion.html133270918277397787 0
+100C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\presentacion.html133271355643900071 0
 169C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@parcel\node-resolver-core\test\fixture\packages\source-alias-glob\src\test.js133236329178980495 0
 134C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@parcel\optimizer-svgo\lib\SVGOOptimizer.js133236329036979733 0
 121C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@swc\helpers\src\_decorate.mjs133236329201573554 0
@@ -5211,7 +5212,7 @@
 126C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\es-abstract\2020\SetFunctionName.js133268407123615690 0
 111C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\chalk\source\util.js133236329046771126 0
 114C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\es-to-primitive\LICENSE133268406722278001 0
-106C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\ronda_logo.09fd9df5.png133270918256312856 0
+106C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\ronda_logo.09fd9df5.png133271355641833941 0
 115C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\es-to-primitive\Makefile133268406732391336 0
 129C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\es-abstract\2022\CodePointsToString.js133268406993321909 0
 121C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\es-abstract\2021\msFromTime.js133268407082683049 0
@@ -5248,7 +5249,7 @@
 107C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\es-abstract\2021133268407183669451 1
 127C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\available-typed-arrays\test\index.js133268406764587476 0
 104C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\es-abstract\5133268407184556780 1
-97C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\museoLara.html133270918277407804 0
+97C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\museoLara.html133271355643910001 0
 115C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\csso\lib\clean\Atrule.js133236329076345337 0
 115C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\es-abstract\CHANGELOG.md133268407186382308 0
 112C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\es-abstract\es2017.js133268407015040001 0
@@ -5685,7 +5686,7 @@
 149C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@babel\highlight\node_modules\color-convert\conversions.js133236329041850620 0
 129C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\es-abstract\2020\TestIntegrityLevel.js133268407145378851 0
 126C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\es-abstract\2020\thisBigIntValue.js133268407145836918 0
-98C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\plazaToros.html133270918277407804 0
+98C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\plazaToros.html133271355643910001 0
 126C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\es-abstract\2020\thisNumberValue.js133268407147486484 0
 134C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\caniuse-lite\data\features\readonly-attr.js133236329301802925 0
 126C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\es-abstract\2020\thisSymbolValue.js133268407148525349 0
@@ -6306,7 +6307,7 @@
 124C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\es-abstract\2015\thisTimeValue.js133268407148727827 0
 135C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\caniuse-lite\data\features\scrollintoview.js133236329302904075 0
 119C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\es-abstract\2015\TimeClip.js133268407149690466 0
-100C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\index.6542fda7.js133270918277417840 0
+100C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\index.6542fda7.js133271355643920013 0
 121C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@parcel\watcher\src\binding.cc133236329040735921 0
 118C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@parcel\runtime-browser-hmr133236329071544202 1
 123C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\es-abstract\2015\ToDateString.js133268407155389936 0
@@ -6382,7 +6383,7 @@
 114C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\domutils\lib\feeds.d.ts133236329123489909 0
 116C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\domutils\lib\helpers.d.ts133236329126624168 0
 120C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\domutils\lib\helpers.d.ts.map133236329081496805 0
-109C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\el-lechuguita.df79d0f6.jpg133270918276743679 0
+109C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\el-lechuguita.df79d0f6.jpg133271355640700221 0
 114C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\domutils\lib\helpers.js133236329040565908 0
 136C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\caniuse-lite\data\features\css-containment.js133236329203671083 0
 114C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\domutils\lib\index.d.ts133236329127879877 0
@@ -6586,7 +6587,7 @@
 130C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@parcel\utils\test\input\config\.testrc133236329035268913 0
 118C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\css-tree\lib\lexer\match.js133236329178811156 0
 127C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\css-tree\lib\lexer\prepare-tokens.js133236329189978878 0
-100C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\index.fb054ebe.js133270918277417840 0
+100C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\index.fb054ebe.js133271355643920013 0
 119C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\css-tree\lib\lexer\search.js133236329192669530 0
 130C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\css-tree\lib\definition-syntax\parse.js133236329188692907 0
 136C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\css-tree\lib\definition-syntax\SyntaxError.js133236329201296955 0
@@ -6653,7 +6654,7 @@
 127C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\cosmiconfig\dist\getDirectory.js.map133236329127859884 0
 130C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\cosmiconfig\dist\getPropertyByPath.d.ts133236329149117081 0
 120C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\cosmiconfig\dist\index.js.map133236329131507178 0
-95C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\alameda.html133270918277407804 0
+95C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\alameda.html133271355643910001 0
 120C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\cosmiconfig\dist\loaders.d.ts133236329151531906 0
 124C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\cosmiconfig\dist\loaders.d.ts.map133236329131947047 0
 122C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\caniuse-lite\data\regions\BM.js133236329174025216 0
@@ -7204,7 +7205,7 @@
 128C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@parcel\runtime-react-refresh\LICENSE133236329033170589 0
 137C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\caniuse-lite\data\features\text-size-adjust.js133236329306679566 0
 132C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\caniuse-lite\data\features\text-stroke.js133236329306689786 0
-118C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\con-el-barrio-al-fondo.9cfa67a4.jpg133270918276743679 0
+118C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\con-el-barrio-al-fondo.9cfa67a4.jpg133271355640710248 0
 132C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\caniuse-lite\data\features\textcontent.js133236329306720086 0
 132C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\caniuse-lite\data\features\textencoder.js133236329306901051 0
 127C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\caniuse-lite\data\features\tls1-3.js133236329307046097 0
@@ -7363,7 +7364,7 @@
 129C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@swc\helpers\src\_set_prototype_of.mjs133236329203973683 0
 128C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@swc\helpers\src\_sliced_to_array.mjs133236329204173704 0
 134C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@swc\helpers\src\_sliced_to_array_loose.mjs133236329204183687 0
-104C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\index.fb054ebe.js.map133270918277597843 0
+104C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\index.fb054ebe.js.map133271355644120001 0
 136C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@swc\helpers\src\_tagged_template_literal.mjs133236329204203713 0
 118C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@swc\helpers\src\_throw.mjs133236329204503690 0
 132C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@swc\helpers\src\_to_consumable_array.mjs133236329204523699 0
@@ -7446,7 +7447,7 @@
 137C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@pkgjs\parseargs\examples\limit-long-syntax.js133268406824194139 0
 136C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@pkgjs\parseargs\examples\ordered-options.mjs133268406898247395 0
 137C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@pkgjs\parseargs\examples\simple-hard-coded.js133268406855847159 0
-97C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\tajoRonda.html133270918277407804 0
+97C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\tajoRonda.html133271355643910001 0
 113C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@parcel\config-default133236329053215159 1
 103C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@parcel\core133236329208588965 1
 127C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@parcel\source-map\dist\node.js.flow133236329035041319 0
@@ -7570,7 +7571,7 @@
 122C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@parcel\utils\src\getRootDir.js133236329131867115 0
 116C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@parcel\utils\src\glob.js133236329133022640 0
 117C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@parcel\utils\src\index.js133236329160125301 0
-97C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\mondragon.html133270918277407804 0
+97C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\mondragon.html133271355643910001 0
 122C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@parcel\utils\src\objectHash.js133236329164338242 0
 126C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@parcel\utils\src\parseCSSImport.js133236329166245237 0
 124C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@parcel\utils\src\prettifyTime.js133236329167009143 0
@@ -7693,7 +7694,7 @@
 144C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@parcel\runtime-js\lib\helpers\browser\html-loader.js133236329096945744 0
 148C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@parcel\runtime-js\lib\helpers\browser\import-polyfill.js133236329128149913 0
 142C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@parcel\runtime-js\lib\helpers\browser\js-loader.js133236329129602253 0
-120C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\Ronda-Alameda-del-tajo-1.ec96b262.jpg133270918276743679 0
+120C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\Ronda-Alameda-del-tajo-1.ec96b262.jpg133271355640710248 0
 148C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@parcel\runtime-js\lib\helpers\browser\prefetch-loader.js133236329144845044 0
 122C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@parcel\runtime-browser-hmr\lib133236329058486365 1
 131C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@parcel\runtime-browser-hmr\package.json133236329073443140 0
@@ -7847,7 +7848,7 @@
 164C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\aliased\package.json133236329181466893 0
 158C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\@scope\pkg\foo133236329063039226 1
 167C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\@scope\pkg\package.json133236329180826765 0
-113C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\bar-casa-clemente.13d1a1b3.jpg133270918276743679 0
+113C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\bar-casa-clemente.13d1a1b3.jpg133271355640700221 0
 165C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\@scope\pkg\foo\bar.js133236329063039226 0
 202C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\.pnpm\source-pnpm@1.0.0\node_modules\source-pnpm\source.js133236329177344975 0
 145C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@parcel\node-resolver-core\test\fixture\nested\test.js133236329178434351 0
@@ -7865,7 +7866,7 @@
 125C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@parcel\logger\test\Logger.test.js133236329050202742 0
 119C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@parcel\logger\src\Logger.js133236329041625915 0
 114C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@parcel\hash\browser.js133236329040475930 0
-112C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\ronda_logo_white.f4bf3ff8.png133270918256312856 0
+112C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\ronda_logo_white.f4bf3ff8.png133271355641833941 0
 112C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@parcel\hash\index.js133236329044986406 0
 111C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@parcel\hash\LICENSE133236329033128119 0
 116C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@parcel\hash\package.json133236329052155364 0
@@ -7877,7 +7878,6 @@
 109C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@parcel\graph\test133236329083685719 1
 130C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@parcel\graph\test\ContentGraph.test.js133236329077259437 0
 121C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@parcel\graph\test\integration133236329036839743 1
-105C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\index.f1ec51ee.css.map133270918277597843 0
 117C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@parcel\graph\src\Graph.js133236329083175806 0
 117C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@parcel\graph\src\types.js133236329123440091 0
 124C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@parcel\graph\lib\ContentGraph.js133236329068972016 0
@@ -8039,7 +8039,7 @@
 133C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@jridgewell\source-map\dist\source-map.mjs133236329077129631 0
 117C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@jridgewell\set-array\dist133236329066284798 1
 116C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@jridgewell\set-array\src133236329073117711 1
-96C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\donBosco.html133270918277407804 0
+96C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\donBosco.html133271355643910001 0
 129C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@jridgewell\set-array\src\set-array.ts133236329074317226 0
 131C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@jridgewell\set-array\dist\set-array.mjs133236329064469329 0
 122C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\@jridgewell\resolve-uri\LICENSE133236329031086523 0
@@ -8112,13 +8112,13 @@
 104C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\.bin\svgo.cmd133236329318324089 0
 106C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\.bin\terser.cmd133236329318334101 0
 106C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\node_modules\.bin\terser.ps1133236329318334101 0
-109C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\banos-arabes.bf1b52ff.jpeg133270918276743679 0
-98C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\casaOrtega.html133270918277397787 0
-98C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\categorias.html133270918277397787 0
-98C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\lechuguita.html133270918277407804 0
-121C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\Museo-Lara-Ronda-6660-min.ddc0c9bb.jpg133270918276743679 0
-138C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\panoramica-plaza-de-toros-la-ronda-495x266.1c9705e7.jpg133270918276899955 0
-100C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\paseoMuralla.html133270918277407804 0
-100C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\puertaGrande.html133270918277407804 0
-130C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\Screen-Shot-2019-07-31-at-14.43.47.b80be6ef.png133270918276743679 0
-117C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\the-central-courtyard.940894da.jpg133270918276743679 0
+109C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\banos-arabes.bf1b52ff.jpeg133271355640720248 0
+98C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\casaOrtega.html133271355643910001 0
+98C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\categorias.html133271355643900071 0
+98C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\lechuguita.html133271355643910001 0
+121C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\Museo-Lara-Ronda-6660-min.ddc0c9bb.jpg133271355640700221 0
+138C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\panoramica-plaza-de-toros-la-ronda-495x266.1c9705e7.jpg133271355640730228 0
+100C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\paseoMuralla.html133271355643910001 0
+100C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\puertaGrande.html133271355643910001 0
+130C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\Screen-Shot-2019-07-31-at-14.43.47.b80be6ef.png133271355640710248 0
+117C:\Users\Poldete\Desktop\Master_programacion_UOC\Herramientas_HTML_y_CSS\PEC1\dist\the-central-courtyard.940894da.jpg133271355640710248 0

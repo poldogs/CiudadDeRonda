@@ -7,6 +7,11 @@
     font-family: 'Montserrat', sans-serif;
 }
 
+body {
+    display: flex;
+    flex-direction: column;
+}
+
 h1,h2,h3{
     color: #004765;
 }
@@ -74,10 +79,16 @@ li a:active{
     justify-content: center;
     width: 100%;
 }
-.index-flex1{
+
+.index-flex1 {
     display: flex;
-    flex-direction: row;
-}
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .index-flex1 img {
+    max-width: 100%;
+  }
 
 p{
     width: 80%;
