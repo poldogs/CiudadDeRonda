@@ -160,6 +160,10 @@ footer {
     margin: 20px;
 }
 
+.enlaces h3 a{
+    word-wrap: break-word;
+}
+
 .detalle h3,li{
     margin: 20px;
 }
@@ -214,5 +218,9 @@ footer {
         margin: 5px 15px;
         display: block;
     }
+    .presentacion h1 {
+        font-size: 20px;
+        margin: 5px;
+      }
 }
 
